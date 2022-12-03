@@ -5,7 +5,7 @@ import { BrowserRouter } from "react-router-dom";
 import { AppRoute } from "./route/AppRoute";
 // import { Navbar } from "./components/navbar/Navbar";
 // import { Footer } from "./components/footer/Footer";
-import "./index.css";
+import "./index.scss";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
